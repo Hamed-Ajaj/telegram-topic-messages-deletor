@@ -1,11 +1,12 @@
 from telethon import TelegramClient
 import asyncio
 
-api_id =28428735
-api_hash ='f9fd0dd9c29450c34d81da1fcf14b102'
+# NOTE: also check the README file
 
-group_id =-1002641361364  # Main group ID
-topic_id = 2395  # Topic ID to delete messages from
+api_id = # api ID from https://my.telegram.org
+api_hash = # api ID and hash from https://my.telegram.org
+group_id = # grup or channel ID to delete messages from
+topic_id =  # Topic ID to delete messages from
 
 client = TelegramClient('session_name', api_id, api_hash)
 
