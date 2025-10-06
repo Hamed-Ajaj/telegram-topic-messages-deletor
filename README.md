@@ -95,6 +95,3 @@ brew install python
 - Be mindful of Telegram's rate limits when deleting a large number of messages.
 
 ---
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
